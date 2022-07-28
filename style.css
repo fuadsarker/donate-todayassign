@@ -1,0 +1,43 @@
+body {
+    font-family: 'Mukta', sans-serif;
+    margin: 0px;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.color {
+    color: orange;
+}
+
+section {
+    display: flex;
+    padding-left: 5%;
+}
+
+.top-banner {
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+
+.half-width img {
+    width: 80%;
+    padding-left: 7%;
+    padding-top: 13%;
+
+}
+
+.half-width {
+    width: 100%;
+
+}
+
+.link-btn {
+    background-image: linear-gradient(orange, tomato);
+    text-decoration: none;
+    padding: 5px 20px;
+    border-radius: 5px;
+    font-weight: 700;
+    font-family: 'Times New Roman', Times, serif;
+}
